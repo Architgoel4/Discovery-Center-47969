@@ -3,8 +3,8 @@ Discovery Center Mission 47969
 
 This repository includes releases and editable versions of the project.
 
-Invoice Processing - SAP Build Process Automation Project
-SupplierInvoice - Actions Project
+- Invoice Processing - SAP Build Process Automation Project
+- SupplierInvoice - Actions Project
 
 # Pre-requisities
 1. Create Destination to be used in SAP Build Process Automation
